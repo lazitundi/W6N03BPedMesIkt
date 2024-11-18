@@ -1,0 +1,20 @@
+init - új repository létrehozása
+add - fájl hozzáadása
+mv - fájl áthelyezése
+rm - fájl törlése
+commit - változtatás mentése
+log - commitok listázása
+tag - címkézés
+stash save - mentés átmeneti tárolóba
+branch - listázás
+branch -m - branch átnevezése
+branch -d - branch törlése
+checkout - branchek közötti váltás
+merge - branchek összeolvasztása
+remote - távoli repository-k listázása
+remote show - távoli repository adatok megtekintése
+remote add - távoli rep. hozzáadása a local rep.-hoz
+remote rm - távoli rep. kapcsolat törlése
+clone - távoli rep. lemásolása helyi gépre
+fetch - távoli rep. változásainak letöltése
+push - lokális változások feltöltése távoli rep.-ba
